@@ -1,6 +1,6 @@
 **Ecommerce-website**
 
-Images
+**Images**
 
 ![Ecommerce-website](https://github.com/user-attachments/assets/7f611c2c-e693-42eb-8383-5f8b580ce0c1)
 
